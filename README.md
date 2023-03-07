@@ -10,7 +10,7 @@
     - Quite simple PHP Framework, that I use for my personal projects
 - [`SecureBin`](https://github.com/lopatar/SecureBin)
     - Zero knowledge pastebin alternative that delegates crypto operations to the browser
-- [`Bazos bot`](https://github.com/lopatar/BazosBot)
+- [`BazosBot`](https://github.com/lopatar/BazosBot)
     - Bot for the online marketplace Bazoš, it operates in several European countries.
 - [`All repositories`](https://github.com/lopatar?tab=repositories)
     - See all the repositories that I am currently working on, or have abandoned already.
