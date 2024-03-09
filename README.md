@@ -1,6 +1,7 @@
 ### Hi 👋, I am Jiří Lopatář
 
-- Computer science student, mainly interested in [`.NET`](https://dotnet.microsoft.com/en-us/) & [`PHP`](https://php.net)
+- Computer science enthusiast
+, mainly interested in [`.NET`](https://dotnet.microsoft.com/en-us/), [`PHP`](https://php.net) & Linux
 - Heavy enthusiast for Linux server administration, interested in [`NGINX`](https://nginx.org) & [`MariaDB`](https://mariadb.org)
 - Privacy advocate, interested in [`GrapheneOS`](https://grapheneos.org) & [`Kicksecure`](https://kicksecure.com)
 
